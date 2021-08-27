@@ -15,6 +15,6 @@
 
 
 
-[website]: https://jacobborgerding.com
+[website]: https://www.jacobborgerding.com
 [instagram]: https://www.instagram.com/jacob.borgerding/
 [linkedin]: https://www.linkedin.com/in/jacob-borgerding-390a9619b/
