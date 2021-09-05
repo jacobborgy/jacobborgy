@@ -3,7 +3,7 @@
 ## I'm a aspiring software developer!!
 
 - 🚀 I’m currently focusing on learning more about web development 
-- 📌 I'm learning more about Callbacks & Array Methods in JavaScript at the moment
+- 📌 I'm learning more about DOM Events at the moment
 - 📜 2021 Goals: Get through all of my courses on Udemy
 - ⚡ Fun fact: I love to code, longboard, and play video games with my friends
 
