@@ -1,10 +1,10 @@
 ### Hello, I'm Jacob 👋
 
-## I'm a aspiring software developer!!
+## I'm a software developer!
 
-- 🚀 I’m currently focusing on learning more about web development 
-- 📌 I'm learning more about DOM Events at the moment
-- 📜 2021 Goals: Get through all of my courses on Udemy
+- 🚀 I’m currently focusing on learning more about Drupal
+- 📌 I'm currently refreshing my portfolio
+- 📜 2024 Goals: Aquire the Drupal Acquia Certification
 - ⚡ Fun fact: I love to code, longboard, and play video games with my friends
 
 ### Connect with me:
